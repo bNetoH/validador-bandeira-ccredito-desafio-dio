@@ -26,11 +26,12 @@ python app.py
 ```
 
 ## Estrutura do Projeto
-
+```
 .
 ├── app.py # Arquivo principal com o código do programa
 ├── requirements.txt # Arquivo com as dependências do projeto
 ├── README.md # Instruções sobre o projeto
+```
 
 ## Contribuição
 
